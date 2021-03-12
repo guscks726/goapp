@@ -1,5 +1,3 @@
-vi Dockerfile
-
 FROM golang:1.11-alpine AS build
 MAINTAINER hyunchan,lee <guscks726@naver.com>
 
